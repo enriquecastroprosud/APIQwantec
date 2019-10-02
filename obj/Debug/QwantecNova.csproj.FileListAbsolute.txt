@@ -1,0 +1,7 @@
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\QwantecNova.exe.config
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\QwantecNova.exe
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\QwantecNova.pdb
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csprojAssemblyReference.cache
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.exe
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.pdb
