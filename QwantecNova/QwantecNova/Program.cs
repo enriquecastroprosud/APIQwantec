@@ -4,6 +4,7 @@ using System.IO;
 using System.Net;
 using System.Data.SqlClient;
 using System.Data;
+using Newtonsoft.Json;
 
 namespace QwantecNova
 {
@@ -19,8 +20,8 @@ namespace QwantecNova
             httpWebRequest.ContentType = "application/json";
             httpWebRequest.Method = "POST";
 
-            string fecha_inicio = DateTime.Now.AddDays(-1).ToString("yyyy-MM-dd");
-            string fecha_fin = DateTime.Now.AddDays(-1).ToString("yyyy-MM-dd");
+            string fecha_inicio = DateTime.Now.AddDays(-4).ToString("yyyy-MM-dd");
+            string fecha_fin = DateTime.Now.AddDays(-4).ToString("yyyy-MM-dd");
 
             using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
             {
@@ -45,8 +46,19 @@ namespace QwantecNova
             using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
             {
                 var responseText = streamReader.ReadToEnd();
-                Console.WriteLine(responseText);
-                Console.ReadKey();
+                //Console.WriteLine(responseText);
+
+                DataSet dt = JsonConvert.DeserializeObject<DataSet>(responseText);
+                var table = dt.Tables[0];
+
+
+                foreach (DataRow row in table.Rows)
+                {
+                    Console.WriteLine(row[0]);
+                    Console.WriteLine(row[1]);
+                }
+
+                    Console.ReadKey();
 
             }
         }

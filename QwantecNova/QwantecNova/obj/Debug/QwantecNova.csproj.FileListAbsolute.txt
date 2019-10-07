@@ -5,3 +5,6 @@ C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNo
 C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csproj.CoreCompileInputs.cache
 C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.exe
 C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.pdb
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csproj.CopyComplete
