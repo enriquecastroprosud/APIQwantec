@@ -8,3 +8,13 @@ C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNo
 C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Enrique Castro\Source\Repos\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csproj.CopyComplete
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\bin\Debug\QwantecNova.exe.config
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\bin\Debug\QwantecNova.exe
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\bin\Debug\QwantecNova.pdb
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csprojAssemblyReference.cache
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\obj\Debug\QwantecNova.csproj.CopyComplete
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\obj\Debug\QwantecNova.exe
+C:\Users\Jonathan Avila\Documents\QwantecNova\QwantecNova\obj\Debug\QwantecNova.pdb

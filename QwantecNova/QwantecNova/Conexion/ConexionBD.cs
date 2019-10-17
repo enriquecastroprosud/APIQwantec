@@ -18,8 +18,9 @@ namespace QwantecNova.Conexion
 
         public SqlConnection prosud_bi()
         {
-            SqlConnection conn = new SqlConnection("Data Source=192.168.1.68;Initial Catalog=Prosud_BI;uid=sa;Password=procesadora1");
+            SqlConnection conn = new SqlConnection("Data Source=192.168.1.68;Initial Catalog=Prosud_BI;uid=sa;Password=procesadora1;");
             conn.Open();
+
             return conn;
         }
     }
